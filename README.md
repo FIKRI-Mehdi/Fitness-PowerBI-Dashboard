@@ -58,8 +58,9 @@ It reflects the importance of data storytelling, merging analytical accuracy wit
 ⚙️ **How to Use**
 
 Download the repository or clone it:
-
+```git
 git clone https://github.com/FIKRI-Mehdi/Fitness-PowerBI-Dashboard.git
+```
 
 Open the .pbix file in Power BI Desktop.
 
