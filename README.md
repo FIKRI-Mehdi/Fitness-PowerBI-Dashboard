@@ -1,6 +1,6 @@
 🏋️‍♂️ **Fitness Dashboard – Power BI Project**
 
-![Fitness_dashboard] (https://github.com/FIKRI-Mehdi/Fitness-PowerBI-Dashboard/blob/main/Fitness_dashboard.png)
+![Fitness_dashboard](https://github.com/FIKRI-Mehdi/Fitness-PowerBI-Dashboard/blob/main/Fitness_dashboard.png)
 
 📖 **Overview**
 
